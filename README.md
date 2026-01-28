@@ -9,7 +9,13 @@ By integrating marketing, sales, and operations data into a unified reporting st
 The findings show that targeted improvements in funnel conversion, channel allocation, and upsell strategy could increase total lifetime value by more than 24 percent.
 
 ---
+## Live Dashboard
 
+You can explore the interactive dashboard here:  
+**Tableau Public:**  
+https://public.tableau.com/app/profile/angel.macedo/viz/MarketingFunnelProject/StrategicMarketingAudit#1
+
+---
 ## Business Objective
 
 The purpose of this case study was to answer a key leadership question:
